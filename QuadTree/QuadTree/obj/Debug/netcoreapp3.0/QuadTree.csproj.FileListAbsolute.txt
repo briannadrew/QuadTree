@@ -1,0 +1,11 @@
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\obj\Debug\netcoreapp3.0\QuadTree.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\obj\Debug\netcoreapp3.0\QuadTree.AssemblyInfoInputs.cache
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\obj\Debug\netcoreapp3.0\QuadTree.AssemblyInfo.cs
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\bin\Debug\netcoreapp3.0\QuadTree.exe
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\bin\Debug\netcoreapp3.0\QuadTree.deps.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\bin\Debug\netcoreapp3.0\QuadTree.runtimeconfig.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\bin\Debug\netcoreapp3.0\QuadTree.runtimeconfig.dev.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\bin\Debug\netcoreapp3.0\QuadTree.dll
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\bin\Debug\netcoreapp3.0\QuadTree.pdb
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\obj\Debug\netcoreapp3.0\QuadTree.dll
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment3\QuadTree\QuadTree\obj\Debug\netcoreapp3.0\QuadTree.pdb
